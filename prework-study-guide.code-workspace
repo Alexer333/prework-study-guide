@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../bootcamp/prework-study-guide"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "assets"
+	}
+}
